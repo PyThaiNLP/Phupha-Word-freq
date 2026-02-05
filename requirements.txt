@@ -1,3 +1,4 @@
 pythainlp==5.2
 requests
 tqdm
+pandas
