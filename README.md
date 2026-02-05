@@ -8,4 +8,6 @@ File:
 - make.py: Create Thai Word Frequency Dataset
 - requirements.txt: Python requirements.txt
 
-Apache-2.0 license
+Code license: Apache-2.0 license
+
+Dataset license: Creative Commons Zero 1.0 Universal Public Domain Dedication License (CC0).
